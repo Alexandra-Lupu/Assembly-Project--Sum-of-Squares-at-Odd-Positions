@@ -4,6 +4,4 @@ This project is written in x86 Assembly language (MASM/TASM style, `.model small
 ## Description
 The program reads a vector of up to 10 elements (digits only) from the keyboard and calculates the sum of the squares of the elements located at odd positions in the vector. The result is then displayed to the user.
 
-## Requirements
-- DOS environment or DOS emulator (such as DOSBox).
-- MASM/TASM assembler for compiling the code.
+
